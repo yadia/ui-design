@@ -19,6 +19,9 @@ Get Sketch  at (https://www.sketchapp.com)
 - **Macdown** The open source Markdown editor for macOS [Website](https://macdown.uranusjr.com/)
 ![MacDown Screenshot](http://d.pr/i/10UGP+)
 
+-**Infiity** $!5USD  Infinity Dashboard allows you to track anything through its beautifully organized interface. With over 35 built-in modules, you can monitor things ranging from current weather, travel times, website stats, stock prices, birthdays and much more. You can even write your own custom modules to track almost anything you want.[WEbsite](https://fiplab.com/apps/infinity-dashboard-for-mac?ref=infinitydashboard.com)
+![](
+
 ## Get Information 
 
 - **Serial I/O** Full-featured serial terminal for the Mac. Its a nice Mac alternative to Tera Term [Website](https://www.decisivetactics.com/products/serial/)
